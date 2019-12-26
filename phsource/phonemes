@@ -1695,6 +1695,8 @@ include ph_welsh
 phonemetable da base1
 include ph_danish
 
+phonemetable dv base1
+
 phonemetable en base1
 include ph_english
 
